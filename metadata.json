@@ -1,0 +1,7 @@
+{
+  "name": "Remix: Best Spa in Gulshan - Frozen Thai Spa",
+  "description": "Indulge in a unique wellness journey at Frozen Thai Spa - Spa in Gulshan, Banani \u0026 Dhaka. Experience authentic Thai therapy and rejuvenation.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
